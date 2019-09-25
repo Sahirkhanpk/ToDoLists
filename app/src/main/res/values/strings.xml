@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">To Do Lists</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_title_home">To Do Lists</string>
+    <string name="msg_no_tasks">No task pending..!</string>
+    <string name="lbl_new_task_title">New Task</string>
+    <string name="lbl_edit_task_title">Edit Task</string>
+    <string name="hint_enter_task">Enter your Task!</string>
+</resources>
